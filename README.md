@@ -5,6 +5,9 @@
 ✈️   You can hire me for remote work
 
 🎓   Completed a B.Tech in Computer Science and Engineering
+
 📚   Reading more about how computer works, under the hood
+
 🎉   Checkout professional account on LinkedIn
+
 📭   ishan22g@gmail.com
