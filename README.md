@@ -10,4 +10,4 @@
 
 🎉   Checkout professional account on LinkedIn
 
-📭    ishan22g@gmail.com
+📭   ishan22g@gmail.com
