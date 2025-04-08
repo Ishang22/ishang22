@@ -1,7 +1,7 @@
 ⚡  Hi, I'm Ishan — a Software Engineer from India building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, freelancing, psychology & philosophy. ⚡
 
 
-🔭   I’m currently working on node.js, react.js & java
+🔭   I’m currently working on java,spring boot,mongodb,mysql,kafka
 
 
 ✈️    You can hire me for remote work
